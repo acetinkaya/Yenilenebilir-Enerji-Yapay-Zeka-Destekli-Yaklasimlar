@@ -12,4 +12,7 @@ Yenilenebilir Enerji Kaynaklarının Kullanımında Yapay Zeka Destekli Yaklaş�
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr and mtemur@gelisim.edu.tr 
 
+---
+
+![AlternatifMetin]
 
