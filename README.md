@@ -10,3 +10,6 @@ Yenilenebilir Enerji Kaynaklarının Kullanımında Yapay Zeka Destekli Yaklaş�
 - [**Mustafa TEMÜR**](https://scholar.google.com/citations?user=EW__vBYAAAAJ)   
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Otomotiv Teknolojisi Programı, İstanbul / Türkiye
 
+*For Correspondence: alcetinkaya@gelisim.edu.tr and mtemur@gelisim.edu.tr 
+
+
