@@ -7,4 +7,4 @@ Yenilenebilir Enerji Kaynaklarının Kullanımında Yapay Zeka Destekli Yaklaş�
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Otonom Sistemler Teknikerliği Programı, İstanbul / Türkiye
 
-
+- [**Mustafa TEMÜR**](https://scholar.google.com/citations?user=EW__vBYAAAAJ)   
