@@ -4,4 +4,5 @@ Yenilenebilir Enerji Kaynaklarının Kullanımında Yapay Zeka Destekli Yaklaş�
 
 ## Yazarlar / Authors
 
-- [**Ali Çetinkaya**]
+- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    
+  İstanbul Gelişim Üniversitesi, 
