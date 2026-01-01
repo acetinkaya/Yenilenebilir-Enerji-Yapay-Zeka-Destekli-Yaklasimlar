@@ -14,5 +14,5 @@ Yenilenebilir Enerji Kaynaklarının Kullanımında Yapay Zeka Destekli Yaklaş�
 
 ---
 
-![AlternatifMetin]
+![AlternatifMetin](
 
