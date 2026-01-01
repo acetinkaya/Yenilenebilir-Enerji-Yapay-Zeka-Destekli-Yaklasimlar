@@ -31,3 +31,5 @@ Basım Yılı: 2025
 Yayınevi: Çizgi Kitapevi
 
 [Kitap İnternet Sayfası](https://www.cizgikitabevi.com/kitap/2234-yapay-zeka-calismalari)
+
+![AlternatifMetin](https://github.com/acetinkaya/Yenilenebilir-Enerji-Yapay-Zeka-Destekli-Yaklasimlar/blob/main/_2_kitap.png)
