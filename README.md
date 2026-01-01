@@ -22,4 +22,4 @@ Kitap Yayın Linkleri & Erişim Adresi:
 
 Kitap İsmi: YAPAY ZEKA ÇALIŞMALALARI 
 
-Kitap İçindeki 
+Kitap İçindeki Bölüm No & İsmi: Bölüm 2. 
