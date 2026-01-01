@@ -26,4 +26,5 @@ Kitap İçindeki Bölüm No & İsmi: Bölüm 2. Yenilenebilir Enerji Kaynakları
 
 ISBN No: 978-625-396-758-1 
 
+Basım Yılı: 2025
 
