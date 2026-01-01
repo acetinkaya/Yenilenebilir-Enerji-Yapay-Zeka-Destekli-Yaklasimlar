@@ -20,4 +20,4 @@ Yenilenebilir Enerji Kaynaklarının Kullanımında Yapay Zeka Destekli Yaklaş�
 
 Kitap Yayın Linkleri & Erişim Adresi:
 
-
+Kitap İsmi: YAPAY ZEKA 
