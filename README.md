@@ -35,3 +35,7 @@ Yayınevi: Çizgi Kitapevi
 ![AlternatifMetin](https://github.com/acetinkaya/Yenilenebilir-Enerji-Yapay-Zeka-Destekli-Yaklasimlar/blob/main/_2_kitap.png)
 
 ![AlternatifMetin](https://github.com/acetinkaya/Yenilenebilir-Enerji-Yapay-Zeka-Destekli-Yaklasimlar/blob/main/_3_kitap.png)
+
+![AlternatifMetin](https://github.com/acetinkaya/Yenilenebilir-Enerji-Yapay-Zeka-Destekli-Yaklasimlar/blob/main/_4_kitap.png)
+
+---
