@@ -28,3 +28,5 @@ ISBN No: 978-625-396-758-1
 
 Basım Yılı: 2025
 
+Yayınevi: Çizgi Kitapevi
+
