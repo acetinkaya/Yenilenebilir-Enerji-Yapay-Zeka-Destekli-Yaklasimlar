@@ -16,3 +16,4 @@ Yenilenebilir Enerji Kaynaklarının Kullanımında Yapay Zeka Destekli Yaklaş�
 
 ![AlternatifMetin](https://github.com/acetinkaya/Yenilenebilir-Enerji-Yapay-Zeka-Destekli-Yaklasimlar/blob/main/_1_kitap.png)
 
+---
