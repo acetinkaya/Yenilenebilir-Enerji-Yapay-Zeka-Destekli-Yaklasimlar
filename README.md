@@ -24,4 +24,6 @@ Kitap İsmi: YAPAY ZEKA ÇALIŞMALALARI
 
 Kitap İçindeki Bölüm No & İsmi: Bölüm 2. Yenilenebilir Enerji Kaynaklarının Kullanımında Yapay Zeka Destekli Yaklaşımların Karşılaştırılması ve Analizi
 
+ISBN No: 978-625-396-758-1 
+
 
