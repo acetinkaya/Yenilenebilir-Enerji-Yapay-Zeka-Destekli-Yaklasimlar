@@ -22,4 +22,6 @@ Kitap Yayın Linkleri & Erişim Adresi:
 
 Kitap İsmi: YAPAY ZEKA ÇALIŞMALALARI 
 
-Kitap İçindeki Bölüm No & İsmi: Bölüm 2. 
+Kitap İçindeki Bölüm No & İsmi: Bölüm 2. Yenilenebilir Enerji Kaynaklarının Kullanımında Yapay Zeka Destekli Yaklaşımların Karşılaştırılması ve Analizi
+
+
