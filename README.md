@@ -30,3 +30,4 @@ Basım Yılı: 2025
 
 Yayınevi: Çizgi Kitapevi
 
+[Kitap İnternet Sayfası](https://www.cizgikitabevi.com/kitap/2234-yapay-zeka-calismalari)
